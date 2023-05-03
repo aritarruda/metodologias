@@ -1,4 +1,4 @@
-# metodologias 😊
+# Metodologias 😊
 
 ## <i>Desenvolvimento web backend Senac Porto Digital</i>
 *******************************************
